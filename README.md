@@ -1,4 +1,22 @@
 # algorithm
+## 2022-12-14(수)
+1. 원형 연결 리스트
+- https://starrykss.tistory.com/1835 (★ 보고 숙달)
+
+2. ex_linked_list
+- 원형 링크드 리스트
+
+3. double_linked_lst
+- 이중 링크드 리스트
+
+4. 스택
+- First In Last Out(선입후출)
+- push, pop, peek
+
+5. 큐
+- First In First Out(선입선출)
+
+
 ## 2022-12-13(화)
 1. 로또 번호 생성
 - 사용자가 입력할 number : input
@@ -15,7 +33,8 @@
 - insert_data()
 - delete_data()
 
-4. 링크드리스트(single_linked_list) -> node라는 클래스를 생성해서 진행
+4. 단순 연결 리스트(single_linked_list) -> node라는 클래스를 생성해서 진행
+https://starrykss.tistory.com/1837 (★ 보고 숙달)
 - head 생성
 - insert_node()
 - delete_node()
